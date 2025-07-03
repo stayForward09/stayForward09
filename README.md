@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello! I'm Davee 👋</h1>
-<h3 align="center">An Experienced Frontend | Backend | Blockchain Engineer</h3>
+<h3 align="center">An Experienced Frontend | Backend | Blockchain | GenAI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stayForward09&label=Profile%20views&color=0e75b6&style=flat" alt="stayForward09" /> </p>
 
@@ -11,7 +11,9 @@
   
     • Backend Development with Node.JS, GraphQL, Golang, .NET, Django.
 
-    • Blockchain Development (DeFi, NFT, DApps and DEX, Smart Contract with Solidity, Rust, Solana, etc)
+    • Blockchain Development (DeFi, NFT, DApps and DEX, Smart Contract with Solidity and Rust, Solana Trading Bot, etc)
+
+    • Generative AI with Python, LLM, RAG, GAN, Langchain, LlamaIndex.
   
  
   
